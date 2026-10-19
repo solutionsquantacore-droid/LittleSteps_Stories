@@ -1,0 +1,47 @@
+name: Update Content Daily
+
+on:
+  schedule:
+    # ⏰ Runs automatically once every 24 hours at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual button trigger from GitHub UI
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Reels Fetcher
+        run: |
+          python fetch_reels.py kids_reels.json
+
+      - name: Run Stories Fetcher (English & Hindi)
+        run: |
+          python update_all_stories.py
+
+      - name: Commit and Push Updated JSON
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add kids_reels.json hindi_stories.json youtube_videos.json
+          if git diff --staged --quiet; then
+            echo "No changes found. Content is already up to date."
+          else
+            git commit -m "Auto-update reels & stories $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push origin main
+          fi
