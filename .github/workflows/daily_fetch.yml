@@ -1,17 +1,17 @@
-name: Fetch YouTube Videos Daily
+name: Fetch YouTube Stories Daily (English & Hindi)
 
 on:
   schedule:
-    # Runs automatically once every 24 hours at 00:00 UTC (5:30 AM IST)
+    # ⏰ Runs automatically once every 24 hours at 00:00 UTC (5:30 AM IST)
     - cron: '0 0 * * *'
   workflow_dispatch:
-    # Allows manual trigger anytime from GitHub Actions tab
+    # Allows manual 1-click trigger from GitHub Actions tab
 
 permissions:
   contents: write
 
 jobs:
-  update-videos:
+  update-stories:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -27,18 +27,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Fetch Latest Videos
+      - name: Fetch Latest Stories (English & Hindi)
         run: |
-          python fetch_videos.py
+          python update_all_stories.py
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add youtube_videos.json
+          git add youtube_videos.json hindi_stories.json
           if git diff --staged --quiet; then
-            echo "No video changes detected. Everything is up to date."
+            echo "No story video changes detected. Both JSON files are up to date."
           else
-            git commit -m "Auto-update youtube_videos.json [skip ci]"
+            git commit -m "Auto-update youtube_videos.json & hindi_stories.json [skip ci]"
             git push
           fi
