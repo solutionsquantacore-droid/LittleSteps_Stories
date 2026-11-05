@@ -1,11 +1,24 @@
 {
-  "last_updated": "2026-11-04T03:34:51.300151+00:00",
-  "total_videos": 708,
+  "last_updated": "2026-11-05T03:55:12.420742+00:00",
+  "total_videos": 709,
   "channels": [
     "@FairyTales.English",
     "@MrBookandMeStories"
   ],
   "videos": [
+    {
+      "id": "mDTFaDpzEcM",
+      "title": "Pollyanna + Jungle Book ✨ | Fairy Tales and Stories for Kids",
+      "video_url": "https://www.youtube.com/watch?v=mDTFaDpzEcM",
+      "embed_url": "https://www.youtube.com/embed/mDTFaDpzEcM",
+      "thumbnail_url": "https://i.ytimg.com/vi/mDTFaDpzEcM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyTBGZ-4q1600TNJQqZvTwRuvKOA",
+      "thumbnail_hq": "https://i.ytimg.com/vi/mDTFaDpzEcM/hqdefault.jpg",
+      "duration": "21:15",
+      "duration_seconds": 1275,
+      "views": 1300,
+      "channel_name": "Fairy Tales and Stories for Kids",
+      "channel_handle": "@FairyTales.English"
+    },
     {
       "id": "FlMhmnrUGNA",
       "title": "Bremen Town Musicians + The Lion and the Mouse 🦁 | Fairy Tales and Stories for Kids",
@@ -15,7 +28,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/FlMhmnrUGNA/hqdefault.jpg",
       "duration": "15:30",
       "duration_seconds": 930,
-      "views": 1500,
+      "views": 1700,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -28,7 +41,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/GnNoDH7dDfI/hqdefault.jpg",
       "duration": "21:00",
       "duration_seconds": 1260,
-      "views": 25000,
+      "views": 34000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -41,7 +54,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/I8YY0Ff6yYY/hqdefault.jpg",
       "duration": "18:13",
       "duration_seconds": 1093,
-      "views": 24000,
+      "views": 25000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -54,7 +67,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/Xq7fE9udy_s/hqdefault.jpg",
       "duration": "19:07",
       "duration_seconds": 1147,
-      "views": 96000,
+      "views": 103000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -67,7 +80,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/HbDh9LU1tXM/hqdefault.jpg",
       "duration": "17:53",
       "duration_seconds": 1073,
-      "views": 16000,
+      "views": 17000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -80,7 +93,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/yQ_J_MO1stc/hqdefault.jpg",
       "duration": "21:52",
       "duration_seconds": 1312,
-      "views": 343000,
+      "views": 346000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -93,7 +106,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/O8GWyFZtvUQ/hqdefault.jpg",
       "duration": "13:36",
       "duration_seconds": 816,
-      "views": 352000,
+      "views": 362000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -119,7 +132,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/dsVhy0yxu60/hqdefault.jpg",
       "duration": "24:14",
       "duration_seconds": 1454,
-      "views": 141000,
+      "views": 142000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -132,7 +145,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/A15ArQXj8nQ/hqdefault.jpg",
       "duration": "26:58",
       "duration_seconds": 1618,
-      "views": 123000,
+      "views": 124000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -145,7 +158,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/Y41XssZ6oLc/hqdefault.jpg",
       "duration": "18:36",
       "duration_seconds": 1116,
-      "views": 131000,
+      "views": 133000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -158,7 +171,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/s5NX6I6yHDA/hqdefault.jpg",
       "duration": "22:24",
       "duration_seconds": 1344,
-      "views": 54000,
+      "views": 55000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -171,7 +184,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/AfJk-yVcOGI/hqdefault.jpg",
       "duration": "20:08",
       "duration_seconds": 1208,
-      "views": 3600000,
+      "views": 3700000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -184,7 +197,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/hDxB0TLd3VU/hqdefault.jpg",
       "duration": "24:46",
       "duration_seconds": 1486,
-      "views": 122000,
+      "views": 123000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -223,7 +236,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/t7XZJ1yyFPs/hqdefault.jpg",
       "duration": "19:06",
       "duration_seconds": 1146,
-      "views": 60000,
+      "views": 61000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -288,7 +301,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/zjOacvhR-A8/hqdefault.jpg",
       "duration": "18:23",
       "duration_seconds": 1103,
-      "views": 73000,
+      "views": 74000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -327,7 +340,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/t-fAUlD7q30/hqdefault.jpg",
       "duration": "19:46",
       "duration_seconds": 1186,
-      "views": 62000,
+      "views": 63000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -392,7 +405,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/RjRrSwoHEqI/hqdefault.jpg",
       "duration": "11:51",
       "duration_seconds": 711,
-      "views": 48000,
+      "views": 49000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -431,7 +444,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/QsXAEncr_Eg/hqdefault.jpg",
       "duration": "23:24",
       "duration_seconds": 1404,
-      "views": 135000,
+      "views": 227000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -496,7 +509,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/6WFDMgd5YJU/hqdefault.jpg",
       "duration": "19:02",
       "duration_seconds": 1142,
-      "views": 620000,
+      "views": 621000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -665,7 +678,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/YqgDO1e5wjw/hqdefault.jpg",
       "duration": "22:23",
       "duration_seconds": 1343,
-      "views": 8200,
+      "views": 8300,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -691,7 +704,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/DNU28972TvY/hqdefault.jpg",
       "duration": "24:15",
       "duration_seconds": 1455,
-      "views": 46000,
+      "views": 47000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -717,7 +730,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/QmLSMnCc6pQ/hqdefault.jpg",
       "duration": "26:37",
       "duration_seconds": 1597,
-      "views": 18000,
+      "views": 19000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -730,7 +743,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/8E4S-vg-zw4/hqdefault.jpg",
       "duration": "18:57",
       "duration_seconds": 1137,
-      "views": 3100000,
+      "views": 3200000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -743,7 +756,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/yFGug5-yvBU/hqdefault.jpg",
       "duration": "48:11",
       "duration_seconds": 2891,
-      "views": 74000,
+      "views": 75000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -756,7 +769,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/OW658aSZo-k/hqdefault.jpg",
       "duration": "16:42",
       "duration_seconds": 1002,
-      "views": 850000,
+      "views": 852000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -834,7 +847,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/edV3mlC32Y0/hqdefault.jpg",
       "duration": "16:41",
       "duration_seconds": 1001,
-      "views": 6800,
+      "views": 6900,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -873,7 +886,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/r-5cfE5ZoNc/hqdefault.jpg",
       "duration": "15:34",
       "duration_seconds": 934,
-      "views": 104000,
+      "views": 105000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -899,7 +912,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/GCJkT1LcTC4/hqdefault.jpg",
       "duration": "11:10",
       "duration_seconds": 670,
-      "views": 47000,
+      "views": 48000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -938,7 +951,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/ZGtS8nooq8M/hqdefault.jpg",
       "duration": "11:53",
       "duration_seconds": 713,
-      "views": 153000,
+      "views": 154000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1003,7 +1016,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/u_B3OZ-Zgco/hqdefault.jpg",
       "duration": "13:34",
       "duration_seconds": 814,
-      "views": 405000,
+      "views": 406000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1029,7 +1042,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/PjPUhzu7RNo/hqdefault.jpg",
       "duration": "8:53",
       "duration_seconds": 533,
-      "views": 170000,
+      "views": 171000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1042,7 +1055,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/eaPE_Dwti60/hqdefault.jpg",
       "duration": "2:03:56",
       "duration_seconds": 7436,
-      "views": 352000,
+      "views": 353000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1081,7 +1094,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/CgyymPl9MHA/hqdefault.jpg",
       "duration": "8:33",
       "duration_seconds": 513,
-      "views": 172000,
+      "views": 173000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1250,7 +1263,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/6bBmhJtWVVU/hqdefault.jpg",
       "duration": "21:19",
       "duration_seconds": 1279,
-      "views": 863000,
+      "views": 864000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1315,7 +1328,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/DVux9x3H8Qo/hqdefault.jpg",
       "duration": "8:02",
       "duration_seconds": 482,
-      "views": 887000,
+      "views": 889000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1497,7 +1510,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/6ejKgpUtVSw/hqdefault.jpg",
       "duration": "1:15:22",
       "duration_seconds": 4522,
-      "views": 108000,
+      "views": 109000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1536,7 +1549,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/jmBT93DIerQ/hqdefault.jpg",
       "duration": "25:20",
       "duration_seconds": 1520,
-      "views": 482000,
+      "views": 483000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1549,7 +1562,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/IU2VMzN99is/hqdefault.jpg",
       "duration": "8:33",
       "duration_seconds": 513,
-      "views": 585000,
+      "views": 586000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1575,7 +1588,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/nj7qR_tHbLc/hqdefault.jpg",
       "duration": "27:49",
       "duration_seconds": 1669,
-      "views": 608000,
+      "views": 609000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1614,7 +1627,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/rnZkpehjGA4/hqdefault.jpg",
       "duration": "4:44",
       "duration_seconds": 284,
-      "views": 97000,
+      "views": 98000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1692,7 +1705,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/ASMT8yerh_k/hqdefault.jpg",
       "duration": "8:04",
       "duration_seconds": 484,
-      "views": 593000,
+      "views": 594000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1861,7 +1874,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/k-9dy311OAE/hqdefault.jpg",
       "duration": "42:14",
       "duration_seconds": 2534,
-      "views": 690000,
+      "views": 692000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -1978,7 +1991,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/cmp7tNbnKlA/hqdefault.jpg",
       "duration": "38:51",
       "duration_seconds": 2331,
-      "views": 715000,
+      "views": 716000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -2290,7 +2303,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/alGuHIFLPjw/hqdefault.jpg",
       "duration": "2:00:49",
       "duration_seconds": 7249,
-      "views": 542000,
+      "views": 543000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -2303,7 +2316,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/BGDb3p2hxE4/hqdefault.jpg",
       "duration": "1:06:41",
       "duration_seconds": 4001,
-      "views": 177000,
+      "views": 178000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -2485,7 +2498,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/VXFlRL9614s/hqdefault.jpg",
       "duration": "49:44",
       "duration_seconds": 2984,
-      "views": 898000,
+      "views": 899000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -2537,7 +2550,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/yi1tPib8c60/hqdefault.jpg",
       "duration": "41:06",
       "duration_seconds": 2466,
-      "views": 673000,
+      "views": 674000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -2576,7 +2589,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/8JpXB6S2GeY/hqdefault.jpg",
       "duration": "28:23",
       "duration_seconds": 1703,
-      "views": 940000,
+      "views": 941000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -2680,7 +2693,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/1dKbCiLKkjI/hqdefault.jpg",
       "duration": "1:05:05",
       "duration_seconds": 3905,
-      "views": 796000,
+      "views": 797000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -3369,7 +3382,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/tMgk2SVrdrY/hqdefault.jpg",
       "duration": "38:12",
       "duration_seconds": 2292,
-      "views": 470000,
+      "views": 471000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -3408,7 +3421,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/YFNmuxiECA0/hqdefault.jpg",
       "duration": "8:13",
       "duration_seconds": 493,
-      "views": 992000,
+      "views": 993000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -3434,7 +3447,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/CQ5bV8sG0dY/hqdefault.jpg",
       "duration": "8:25",
       "duration_seconds": 505,
-      "views": 205000,
+      "views": 206000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -3577,7 +3590,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/-o3qQRfFW1I/hqdefault.jpg",
       "duration": "26:42",
       "duration_seconds": 1602,
-      "views": 584000,
+      "views": 585000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -3603,7 +3616,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/MHO732PY4pc/hqdefault.jpg",
       "duration": "8:33",
       "duration_seconds": 513,
-      "views": 176000,
+      "views": 177000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -3616,7 +3629,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/SjYY-Ii-sZs/hqdefault.jpg",
       "duration": "10:41",
       "duration_seconds": 641,
-      "views": 333000,
+      "views": 334000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -3772,7 +3785,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/IKsDtqeNQ6w/hqdefault.jpg",
       "duration": "8:36",
       "duration_seconds": 516,
-      "views": 214000,
+      "views": 215000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -3798,7 +3811,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/VdzHoxfWnrs/hqdefault.jpg",
       "duration": "9:21",
       "duration_seconds": 561,
-      "views": 556000,
+      "views": 557000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -3811,7 +3824,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/0XdD50jSDeI/hqdefault.jpg",
       "duration": "8:04",
       "duration_seconds": 484,
-      "views": 2100000,
+      "views": 2200000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -3928,7 +3941,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/ZXWV3lafnRQ/hqdefault.jpg",
       "duration": "8:54",
       "duration_seconds": 534,
-      "views": 941000,
+      "views": 942000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -4019,7 +4032,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/CnYXD-TYr4U/hqdefault.jpg",
       "duration": "8:07",
       "duration_seconds": 487,
-      "views": 803000,
+      "views": 804000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -4058,7 +4071,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/YGFn37crMtU/hqdefault.jpg",
       "duration": "8:03",
       "duration_seconds": 483,
-      "views": 604000,
+      "views": 605000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -4188,7 +4201,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/sjBsnqWul7M/hqdefault.jpg",
       "duration": "26:26",
       "duration_seconds": 1586,
-      "views": 262000,
+      "views": 263000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -4344,7 +4357,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/PNlGpjJn5qE/hqdefault.jpg",
       "duration": "6:38",
       "duration_seconds": 398,
-      "views": 318000,
+      "views": 319000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -5176,7 +5189,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/ph3T4EX6-IM/hqdefault.jpg",
       "duration": "25:14",
       "duration_seconds": 1514,
-      "views": 441000,
+      "views": 442000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -5605,7 +5618,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/NeX-aKBF4H8/hqdefault.jpg",
       "duration": "15:22",
       "duration_seconds": 922,
-      "views": 229000,
+      "views": 230000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -6710,7 +6723,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/XzFlMmTx6mo/hqdefault.jpg",
       "duration": "12:28",
       "duration_seconds": 748,
-      "views": 400000,
+      "views": 401000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -6905,7 +6918,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/xW18q_NUQwo/hqdefault.jpg",
       "duration": "6:36",
       "duration_seconds": 396,
-      "views": 765000,
+      "views": 766000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -6944,7 +6957,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/2vG-03Ru3M4/hqdefault.jpg",
       "duration": "10:59",
       "duration_seconds": 659,
-      "views": 403000,
+      "views": 404000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -8231,7 +8244,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/K5gr-A03RFM/hqdefault.jpg",
       "duration": "9:04",
       "duration_seconds": 544,
-      "views": 1600000,
+      "views": 1700000,
       "channel_name": "Fairy Tales and Stories for Kids",
       "channel_handle": "@FairyTales.English"
     },
@@ -8283,7 +8296,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/eP9Dft7YbXQ/hqdefault.jpg",
       "duration": "9:17",
       "duration_seconds": 557,
-      "views": 128000,
+      "views": 130000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8296,7 +8309,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/574ostPpoKw/hqdefault.jpg",
       "duration": "8:53",
       "duration_seconds": 533,
-      "views": 110000,
+      "views": 111000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8309,7 +8322,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/05cNmC2c12U/hqdefault.jpg",
       "duration": "9:21",
       "duration_seconds": 561,
-      "views": 197000,
+      "views": 198000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8322,7 +8335,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/az5wNV-q45w/hqdefault.jpg",
       "duration": "8:34",
       "duration_seconds": 514,
-      "views": 143000,
+      "views": 144000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8335,7 +8348,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/-M3Y3e9a1R4/hqdefault.jpg",
       "duration": "10:33",
       "duration_seconds": 633,
-      "views": 516000,
+      "views": 518000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8374,7 +8387,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/CxMJ3m-NyW8/hqdefault.jpg",
       "duration": "8:58",
       "duration_seconds": 538,
-      "views": 321000,
+      "views": 322000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8413,7 +8426,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/zo_ZYM1QqaU/hqdefault.jpg",
       "duration": "8:25",
       "duration_seconds": 505,
-      "views": 190000,
+      "views": 191000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8478,7 +8491,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/xott1I59gM0/hqdefault.jpg",
       "duration": "9:52",
       "duration_seconds": 592,
-      "views": 292000,
+      "views": 293000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8608,7 +8621,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/F3DOvMarK40/hqdefault.jpg",
       "duration": "8:59",
       "duration_seconds": 539,
-      "views": 658000,
+      "views": 659000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8673,7 +8686,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/HbuWybFrZyY/hqdefault.jpg",
       "duration": "8:29",
       "duration_seconds": 509,
-      "views": 73000,
+      "views": 74000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8725,7 +8738,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/j4bRXWQrM9A/hqdefault.jpg",
       "duration": "9:07",
       "duration_seconds": 547,
-      "views": 461000,
+      "views": 462000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8751,7 +8764,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/v_NwMGuDF6w/hqdefault.jpg",
       "duration": "9:08",
       "duration_seconds": 548,
-      "views": 824000,
+      "views": 825000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -8868,7 +8881,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/vMOMDh9iJRQ/hqdefault.jpg",
       "duration": "8:48",
       "duration_seconds": 528,
-      "views": 134000,
+      "views": 135000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -9128,7 +9141,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/cIgFuzgHkw8/hqdefault.jpg",
       "duration": "6:42",
       "duration_seconds": 402,
-      "views": 64000,
+      "views": 65000,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
@@ -9154,7 +9167,7 @@
       "thumbnail_hq": "https://i.ytimg.com/vi/bbDPP8PqVG0/hqdefault.jpg",
       "duration": "4:41",
       "duration_seconds": 281,
-      "views": 9200,
+      "views": 9300,
       "channel_name": "Mr Book and Me Stories",
       "channel_handle": "@MrBookandMeStories"
     },
